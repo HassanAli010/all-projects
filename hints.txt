@@ -1,0 +1,10 @@
+//hour hand:
+
+rotate 12 hour = 360 degree
+                = 30degree
+2 hour = 30+2 degree
+       = 60degree
+H hour = 30 + H degree  
+       = 30H
+
+
